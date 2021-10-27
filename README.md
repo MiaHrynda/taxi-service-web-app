@@ -1,17 +1,20 @@
 ![PngItem_1369730](https://user-images.githubusercontent.com/62517615/138221269-aaad865a-6472-4067-9b0a-55b664f6bccd.png)
 <img height="85" src="https://user-images.githubusercontent.com/62517615/138226039-233bf103-7ce2-4692-8549-242980da9a48.png" width="85"/>
-### **Taxi Service Web Application**  
-It's a simple taxi service web application, which I created to show my skills in Java, OOP, SOLID, RDBMS, 
-JDBC, WEB.
+### <img height="8" src="https://user-images.githubusercontent.com/62517615/138225868-0e00d4e5-14d3-4c96-8856-754cd9da1c6b.png" width="8"/>   **Run online version - deployment on Heroku**
+[https://my-taxi-service.herokuapp.com/login](https://my-taxi-service.herokuapp.com/login)
 
-###<img height="8" src="https://user-images.githubusercontent.com/62517615/138225868-0e00d4e5-14d3-4c96-8856-754cd9da1c6b.png" width="8"/>  __**Features provided by the application for registered users**__
+### **Taxi Service Web Application**  
+It's a taxi service web application, which I created to show my skills in Java, OOP, SOLID, DI, RDBMS, 
+JDBC, WEB. 
+
+### <img height="8" src="https://user-images.githubusercontent.com/62517615/138225868-0e00d4e5-14d3-4c96-8856-754cd9da1c6b.png" width="8"/> **Features provided by the application for registered users**
 1. User(driver) can create new car or manufacturer
 2. Add driver to a specific car
 3. View all drivers, cars and manufacturers
 4. View all cars by logged-in user
 5. Delete car, driver or manufacturer
 
-###<img height="8" src="https://user-images.githubusercontent.com/62517615/138225868-0e00d4e5-14d3-4c96-8856-754cd9da1c6b.png" width="8"/>    **Technologies**
+### <img height="8" src="https://user-images.githubusercontent.com/62517615/138225868-0e00d4e5-14d3-4c96-8856-754cd9da1c6b.png" width="8"/>    **Technologies**
 1. Java 11
 2. Maven
 3. MySQL
@@ -21,7 +24,7 @@ JDBC, WEB.
 7. JSP
 8. Tomcat 9.0.54 (to run app locally)
 
-###<img height="8" src="https://user-images.githubusercontent.com/62517615/138225868-0e00d4e5-14d3-4c96-8856-754cd9da1c6b.png" width="8"/>     **How to run this application** 
+### <img height="8" src="https://user-images.githubusercontent.com/62517615/138225868-0e00d4e5-14d3-4c96-8856-754cd9da1c6b.png" width="8"/>     **How to run this application** 
 1. Install MySQL
 2. Install Tomcat 9.0.54 version. Link -> [https://tomcat.apache.org/download-90.cgi](https://tomcat.apache.org/download-90.cgi)
 3. Fork this project to your repository
@@ -32,8 +35,5 @@ JDBC, WEB.
    (Be careful with adding URL. You should add a Timezone to it too)
 8. Configure your Tomcat. (P.S. Your application context needs to be as "/")
 9. Run this project using Tomcat's local server
-
-###<img height="8" src="https://user-images.githubusercontent.com/62517615/138225868-0e00d4e5-14d3-4c96-8856-754cd9da1c6b.png" width="8"/>   **Run online version - deployment on Heroku**
-[https://my-taxi-service.herokuapp.com/login](https://my-taxi-service.herokuapp.com/login)
 
 ![PngItem_1369730](https://user-images.githubusercontent.com/62517615/138221269-aaad865a-6472-4067-9b0a-55b664f6bccd.png)
